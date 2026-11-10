@@ -36,25 +36,25 @@ for i in ${!BACKBONES[@]}; do
     echo "=== Using Layers: $LAYERS ==="
     echo "========================================================"
 
-#    for k in 2
-#    do
-#        echo "--- Running MVTec AD k=$k for $MODEL_NAME ---"
-#        python -u main.py \
-#            --dataset_name mvtec_ad \
-#            --dataset_path "$MVTEC_PATH" \
-#            --image_res 448 \
-#            --k_shot $k \
-#            --layers="$LAYERS" \
-#            --model_ckpt "$MODEL_CKPT" \
-#            --aug_count 12 \
-#            --pca_ev 0.99 \
-#            --agg_method "mean" \
-#            --outdir "results_ablations/" \
-#            --bg_mask_method pca_normality
-##            --use_graph_diffusion --diffusion_k 25 --diffusion_alpha 0.7 \
-#    done
+    for k in 1 2 4
+    do
+        echo "--- Running MVTec AD k=$k for $MODEL_NAME ---"
+        python -u main.py \
+            --dataset_name mvtec_ad \
+            --dataset_path "$MVTEC_PATH" \
+            --image_res 448 \
+            --k_shot $k \
+            --layers="$LAYERS" \
+            --model_ckpt "$MODEL_CKPT" \
+            --aug_count 12 \
+            --pca_ev 0.99 \
+            --agg_method "mean" \
+            --outdir "results_ablations/" \
+            --use_graph_diffusion --diffusion_k 25 --diffusion_alpha 0.7 \
+            --bg_mask_method pca_normality
+    done
 
-    for k in 2
+    for k in 1 2 4
     do
         echo "--- Running VisA k=$k for $MODEL_NAME ---"
         python -u main.py \
