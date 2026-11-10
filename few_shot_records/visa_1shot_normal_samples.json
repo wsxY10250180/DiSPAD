@@ -1,0 +1,38 @@
+{
+    "candle": [
+        "/root/wsx/convert_visa/1cls/candle/train\\good/0281.JPG"
+    ],
+    "capsules": [
+        "/root/wsx/convert_visa/1cls/capsules/train\\good/470.JPG"
+    ],
+    "cashew": [
+        "/root/wsx/convert_visa/1cls/cashew/train\\good/222.JPG"
+    ],
+    "chewinggum": [
+        "/root/wsx/convert_visa/1cls/chewinggum/train\\good/454.JPG"
+    ],
+    "fryum": [
+        "/root/wsx/convert_visa/1cls/fryum/train\\good/381.JPG"
+    ],
+    "macaroni1": [
+        "/root/wsx/convert_visa/1cls/macaroni1/train\\good/0670.JPG"
+    ],
+    "macaroni2": [
+        "/root/wsx/convert_visa/1cls/macaroni2/train\\good/0712.JPG"
+    ],
+    "pcb1": [
+        "/root/wsx/convert_visa/1cls/pcb1/train\\good/0243.JPG"
+    ],
+    "pcb2": [
+        "/root/wsx/convert_visa/1cls/pcb2/train\\good/0061.JPG"
+    ],
+    "pcb3": [
+        "/root/wsx/convert_visa/1cls/pcb3/train\\good/0850.JPG"
+    ],
+    "pcb4": [
+        "/root/wsx/convert_visa/1cls/pcb4/train\\good/0704.JPG"
+    ],
+    "pipe_fryum": [
+        "/root/wsx/convert_visa/1cls/pipe_fryum/train\\good/066.JPG"
+    ]
+}

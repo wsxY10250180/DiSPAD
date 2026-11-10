@@ -1,0 +1,50 @@
+{
+    "candle": [
+        "/root/wsx/convert_visa/1cls/candle/train\\good/0281.JPG",
+        "/root/wsx/convert_visa/1cls/candle/train/good/0123.JPG"
+    ],
+    "capsules": [
+        "/root/wsx/convert_visa/1cls/capsules/train\\good/470.JPG",
+        "/root/wsx/convert_visa/1cls/capsules/train/good/313.JPG"
+    ],
+    "cashew": [
+        "/root/wsx/convert_visa/1cls/cashew/train\\good/222.JPG",
+        "/root/wsx/convert_visa/1cls/cashew/train/good/125.JPG"
+    ],
+    "chewinggum": [
+        "/root/wsx/convert_visa/1cls/chewinggum/train\\good/454.JPG",
+        "/root/wsx/convert_visa/1cls/chewinggum/train/good/418.JPG"
+    ],
+    "fryum": [
+        "/root/wsx/convert_visa/1cls/fryum/train\\good/381.JPG",
+        "/root/wsx/convert_visa/1cls/fryum/train/good/361.JPG"
+    ],
+    "macaroni1": [
+        "/root/wsx/convert_visa/1cls/macaroni1/train\\good/0670.JPG",
+        "/root/wsx/convert_visa/1cls/macaroni1/train/good/0609.JPG"
+    ],
+    "macaroni2": [
+        "/root/wsx/convert_visa/1cls/macaroni2/train\\good/0712.JPG",
+        "/root/wsx/convert_visa/1cls/macaroni2/train/good/0665.JPG"
+    ],
+    "pcb1": [
+        "/root/wsx/convert_visa/1cls/pcb1/train\\good/0243.JPG",
+        "/root/wsx/convert_visa/1cls/pcb1/train/good/0038.JPG"
+    ],
+    "pcb2": [
+        "/root/wsx/convert_visa/1cls/pcb2/train\\good/0061.JPG",
+        "/root/wsx/convert_visa/1cls/pcb2/train/good/0103.JPG"
+    ],
+    "pcb3": [
+        "/root/wsx/convert_visa/1cls/pcb3/train\\good/0850.JPG",
+        "/root/wsx/convert_visa/1cls/pcb3/train/good/0259.JPG"
+    ],
+    "pcb4": [
+        "/root/wsx/convert_visa/1cls/pcb4/train\\good/0704.JPG",
+        "/root/wsx/convert_visa/1cls/pcb4/train/good/0678.JPG"
+    ],
+    "pipe_fryum": [
+        "/root/wsx/convert_visa/1cls/pipe_fryum/train\\good/066.JPG",
+        "/root/wsx/convert_visa/1cls/pipe_fryum/train/good/314.JPG"
+    ]
+}

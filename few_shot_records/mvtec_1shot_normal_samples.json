@@ -1,0 +1,47 @@
+{
+    "carpet": [
+        "/root/wsx/mvtec/carpet/train/good/148.png"
+    ],
+    "bottle": [
+        "/root/wsx/mvtec/bottle/train/good/093.png"
+    ],
+    "hazelnut": [
+        "/root/wsx/mvtec/hazelnut/train/good/056.png"
+    ],
+    "leather": [
+        "/root/wsx/mvtec/leather/train/good/148.png"
+    ],
+    "cable": [
+        "/root/wsx/mvtec/cable/train/good/009.png"
+    ],
+    "capsule": [
+        "/root/wsx/mvtec/capsule/train/good/063.png"
+    ],
+    "grid": [
+        "/root/wsx/mvtec/grid/train/good/190.png"
+    ],
+    "pill": [
+        "/root/wsx/mvtec/pill/train/good/184.png"
+    ],
+    "transistor": [
+        "/root/wsx/mvtec/transistor/train/good/078.png"
+    ],
+    "metal_nut": [
+        "/root/wsx/mvtec/metal_nut/train/good/104.png"
+    ],
+    "screw": [
+        "/root/wsx/mvtec/screw/train/good/093.png"
+    ],
+    "toothbrush": [
+        "/root/wsx/mvtec/toothbrush/train/good/051.png"
+    ],
+    "zipper": [
+        "/root/wsx/mvtec/zipper/train/good/189.png"
+    ],
+    "tile": [
+        "/root/wsx/mvtec/tile/train/good/066.png"
+    ],
+    "wood": [
+        "/root/wsx/mvtec/wood/train/good/014.png"
+    ]
+}
