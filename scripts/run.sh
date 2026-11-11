@@ -13,7 +13,7 @@ VISA_PATH="D:\develop\dataset\visa"
 
 # Model identifiers from Hugging Face
 BACKBONES=(
-    "./dinov2-small"
+    "facebook/dinov2-small"
 )
 
 # Short names for output directories
